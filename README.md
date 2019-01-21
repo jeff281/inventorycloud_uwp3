@@ -1,0 +1,1 @@
+# inventorycloud_uwp3
